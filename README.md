@@ -1,3 +1,5 @@
+# st - simple terminal  
+
 Suckless'st fork with keyboard and mouse scroll patches applied.   
 If you use this fork, remove `config.h` and generate your own otherwise you might have issue with fonts.  
 -------------------
