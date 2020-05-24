@@ -6,13 +6,6 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Ubuntu Mono:pixelsize=17:antialias=true:autohint=true";
-
-static char *font2[] = {
-	"FontAwesome:pixelsize=11:antialias=true:autohint=false"
-/*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
-/*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
-};
-
 static int borderpx = 2;
 
 /*
