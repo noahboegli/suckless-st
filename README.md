@@ -2,7 +2,7 @@
 Suckless'st fork with keyboard and mouse scroll patches applied.   
 If you use this fork, remove `config.h` and generate your own otherwise you might have issue with fonts.  
 Last updated: 04.05.2020 (st v0.8.3)  
-Applied patches: keyboard scroll, mouse scroll, altscroll   
+Applied patches: keyboard scroll, mouse scroll   
 
 # st - simple terminal
 st is a simple terminal emulator for X which sucks less.
