@@ -2,11 +2,12 @@
 Suckless'st fork with some patches applied.
 If you use this fork, remove `config.h` and generate your own otherwise you might have issue with fonts.  
 
-Last updated: 25.05.2020 (st v0.8.3)  
+Last updated: 28.05.2020 (st v0.8.3)  
 ## Applied patches: 
 
- - keyboard scroll
- - mouse scroll   
+ - scrollback
+ - scrollback-mouse
+ - scrollback-mouse-altscreen
  - alpha
 
 ----------
